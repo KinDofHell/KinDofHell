@@ -12,6 +12,8 @@ It is also worth noting my ability to quickly adapt and learn new things, the pr
 - 👯 I am looking for a job as a Front-end Developer (I am also considering Full Stack, I have the relevant skills)
 - ⚡ Fun fact: I am a very creative person and there is nothing I can do about it :)
 
+My Portfolio: https://portfolio-developer-zeta.vercel.app/
+
 ## 🛠 Skills
 
 ### Languages
