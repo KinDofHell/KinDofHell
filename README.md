@@ -10,7 +10,6 @@ Also, my advantage is the education of a Full Stack developer, so I understand t
 
 - 🔭 I’m currently working on Book Glossary(https://github.com/KinDofHell/book-pet)
 - 🌱 I’m currently learning Socket.io and web3.js
-- 👯 I am looking for a job as a Front-end or Full Stack Developer
 - ⚡ Fun fact: I am a very creative person and there is nothing I can do about it :)
 
 My Portfolio: https://portfolio-developer-zeta.vercel.app/
