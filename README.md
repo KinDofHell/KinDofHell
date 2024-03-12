@@ -9,7 +9,7 @@ In my work, I strive to use new technologies and opportunities, but always find 
 Working in a team of like-minded people and professionals breaks me as a developer every day and allows me to reach new heights. I am known as a persistent and smart player who will offer a solution to any problem.
 
 - 🔭 I’m currently working on Book Glossary(https://github.com/KinDofHell/book-pet)
-- 🌱 I’m currently learning Socket.io and web3.js
+- 🌱 I’m currently learning Docker and React Native
 - ⚡ Fun fact: I am a very creative person and there is nothing I can do about it :)
 
 My Portfolio: https://portfolio-developer-zeta.vercel.app/
