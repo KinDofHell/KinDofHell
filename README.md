@@ -35,6 +35,7 @@ My Portfolio: https://portfolio-developer-zeta.vercel.app/
 - Node.js
 - Express
 - Nest
+- Yii2
 - Jest
 - jQuery
 
