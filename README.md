@@ -2,11 +2,11 @@
 
 ## 🙋‍♂️ About Me
 
-I am a creative and efficient front-end/full stack developer with commercial experience who is ready to become a great team member and make any effort to improve the company.
+I am a creative and efficient Full Stack Developer with experience in commercial development, which includes all the processes of both frontend and backend development and their interaction.
 
-I understand valid and semantic layout, have deep knowledge of javascript and typescript, worked with APIs, processed asynchronous requests. I work well with React, Next, and have a basic understanding of other frameworks. I use Redux Toolkit, Zustand, UI libraries, such as MUI and Shadcn, perfectly and optimized. I have experience in writing tests using Jest.
+In my work, I strive to use new technologies and opportunities, but always find a place to analyze the requirements and determine the real technical needs for a particular project. 
 
-Also, my advantage is the education of a Full Stack developer, so I understand the processes and principles of the backend part, I know Node.js, Express, Nest, MongoDB.
+Working in a team of like-minded people and professionals breaks me as a developer every day and allows me to reach new heights. I am known as a persistent and smart player who will offer a solution to any problem.
 
 - 🔭 I’m currently working on Book Glossary(https://github.com/KinDofHell/book-pet)
 - 🌱 I’m currently learning Socket.io and web3.js
