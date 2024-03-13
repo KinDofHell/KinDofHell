@@ -6,7 +6,7 @@ I am a creative and efficient Full Stack Developer with experience in commercial
 
 In my work, I strive to use new technologies and opportunities, but always find a place to analyze the requirements and determine the real technical needs for a particular project. 
 
-Working in a team of like-minded people and professionals breaks me as a developer every day and allows me to reach new heights. I am known as a persistent and smart player who will offer a solution to any problem.
+Working in a team of like-minded people and professionals improve me as a developer every day and allows me to reach new heights. I am known as a persistent and smart player who will offer a solution to any problem.
 
 - 🔭 I’m currently working on Book Glossary(https://github.com/KinDofHell/book-pet)
 - 🌱 I’m currently learning Docker and React Native
