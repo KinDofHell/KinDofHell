@@ -8,8 +8,8 @@ In my work, I strive to use new technologies and opportunities, but always find 
 
 Working in a team of like-minded people and professionals improve me as a developer every day and allows me to reach new heights. I am known as a persistent and smart player who will offer a solution to any problem.
 
-- 🔭 I’m currently working on Book Glossary(https://github.com/KinDofHell/book-pet)
-- 🌱 I’m currently learning Docker and React Native
+- 🔭 I’m currently working on Nuxt Social Media App(https://github.com/KinDofHell/nuxt-social-media)
+- 🌱 I’m currently learning Laravel and Vue
 - ⚡ Fun fact: I am a very creative person and there is nothing I can do about it :)
 
 My Portfolio: https://portfolio-developer-zeta.vercel.app/
@@ -29,9 +29,11 @@ My Portfolio: https://portfolio-developer-zeta.vercel.app/
 
 - React
 - Next
+- Vue
+- Nuxt
 - SCSS
 - Tailwind CSS
-- MUI/AntDesign/Shadcn
+- MUI/AntDesign/Shadcn/Vuetify
 - Node.js
 - Express
 - Nest
