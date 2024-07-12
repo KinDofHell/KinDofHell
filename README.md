@@ -25,6 +25,8 @@ My Portfolio: https://portfolio-developer-zeta.vercel.app/
 - Python
 - PHP
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinDofHell&theme=default&show_icons=true&hide_border=true&layout=compact" alt="KinDofHell's GitHub Stats" />
+
 ### Frameworks and Libraries 
 
 - React
@@ -55,5 +57,3 @@ My Portfolio: https://portfolio-developer-zeta.vercel.app/
 2. Email: ihordzhus24@gmail.com;
 3. LinkedIn: https://www.linkedin.com/in/ihor-dzhus-0981b7283/
 4. Mobile: +380961705502
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinDofHell&theme=default&show_icons=true&hide_border=true&layout=compact" alt="KinDofHell's GitHub Stats" />
