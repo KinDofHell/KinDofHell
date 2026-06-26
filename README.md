@@ -17,7 +17,6 @@ Building scalable web applications and enterprise solutions with modern JavaScri
 
 I'm a passionate full-stack developer from Ukraine with extensive experience building production-ready web applications. I specialize in creating scalable, maintainable solutions with a focus on clean architecture and user experience.
 
-- 💼 Currently working on **[Digital University](https://digitaluniversity.com.ua/)** — comprehensive online management system for universities
 - 🎯 Experienced in designing and developing highly scalable web platforms serving thousands of concurrent users
 - 🏆 Notable project: **[Landing page for Science Park](https://sciencepark.ztu.edu.ua/)** — modern, performant web presence
 - 🔧 Specializing in **React, Next.js, Laravel, Node.js**, and full-stack JavaScript ecosystems
